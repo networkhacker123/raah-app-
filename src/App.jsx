@@ -180,7 +180,7 @@ export default function App() {
           <div className="feature-card">
             <div className="feature-icon">📊</div>
             <div className="feature-title">Placement Data</div>
-            <div className="feature-desc">Real placement stats from RV, PES, BMS & MSRIT — branch-wise, year-wise.</div>
+            <div className="feature-desc">Real placement stats from RV, CMRIT,NIE-MYSORE,JSS, BMS & MSRIT — branch-wise, year-wise.</div>
             <span className="wip-tag">IN PROGRESS</span>
           </div>
           <div className="feature-card">
@@ -192,7 +192,7 @@ export default function App() {
           <div className="feature-card">
             <div className="feature-icon">🧑‍🏫</div>
             <div className="feature-title">1-on-1 Mentorship</div>
-            <div className="feature-desc">Direct call with a student from your target college. Real answers, no fluff.</div>
+            <div className="feature-desc">Direct call with us
             <span className="wip-tag">IN PROGRESS</span>
           </div>
         </div>
