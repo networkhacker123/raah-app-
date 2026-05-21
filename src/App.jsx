@@ -142,8 +142,7 @@ export default function App() {
         <div className="coming-soon-label">Coming Soon</div>
         <h1>Your <em>RAAH</em> to the<br/>right college starts here.</h1>
         <p className="subtitle">
-          COMEDK counselling guidance from RVCE seniors for students just overpriced scam just honest advice 
-          
+          Honest COMEDK counselling guidance by RVCE seniors — real cutoffs, real advice, no scams
         </p>
 
         {user ? (
