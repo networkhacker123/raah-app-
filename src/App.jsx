@@ -142,8 +142,8 @@ export default function App() {
         <div className="coming-soon-label">Coming Soon</div>
         <h1>Your <em>RAAH</em> to the<br/>right college starts here.</h1>
         <p className="subtitle">
-          Free COMEDK counselling guidance from students already inside RV, PES, BMS & MSRIT.
-          No coaching centre. No confusion. Just honest, insider advice.
+          COMEDK counselling guidance from RVCE seniors for students just overpriced scam just honest advice 
+          
         </p>
 
         {user ? (
